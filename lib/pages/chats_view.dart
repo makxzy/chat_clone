@@ -33,8 +33,8 @@ class ChatsPage extends StatelessWidget {
         floatingActionButton: SpeedDial(
           icon: Icons.add,
           children: [
-            SpeedDialChild(label: "One", child: const Icon(Icons.person)),
-            SpeedDialChild(label: "One", child: const Icon(Icons.message)),
+            SpeedDialChild(label: "Contacts", child: const Icon(Icons.person)),
+            SpeedDialChild(label: "New Message", child: const Icon(Icons.message)),
           ],
         ));
   }

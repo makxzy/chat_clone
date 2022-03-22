@@ -65,4 +65,40 @@ List<ChatModel> chats = [
       time: "15:30",
       avatarUrl:
           "assets/images/avatar2.png"),
+  ChatModel(
+      name: "Jefferson",
+      message: "Am tired of writing countless codes !",
+      time: "15:30",
+      avatarUrl:
+          "assets/images/avatar.png"),
+  ChatModel(
+      name: "Mohammed",
+      message: "I need someone to help me integrate the backend!",
+      time: "17:30",
+      avatarUrl:
+          "assets/images/avatar2.png"),
+  ChatModel(
+      name: "Solomon",
+      message: "Hi, whats up !",
+      time: "5:00",
+      avatarUrl:
+          "assets/images/avatar.png"),
+  ChatModel(
+      name: "Benjamin",
+      message: "I should be done with everything by tomorrow",
+      time: "10:30",
+      avatarUrl:
+          "assets/images/avatar2.png"),
+  ChatModel(
+      name: "Maxzy",
+      message: "Am having issues with compilation",
+      time: "12:30",
+      avatarUrl:
+          "assets/images/avatar.png"),
+  ChatModel(
+      name: "Supervisor",
+      message: "Tomorrow is the deadline !",
+      time: "15:30",
+      avatarUrl:
+          "assets/images/avatar2.png"),
 ];

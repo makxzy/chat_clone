@@ -22,7 +22,7 @@ class _HomeViewState extends State<HomeView> {
       child: Scaffold(
         appBar: AppBar(
           backgroundColor: Color.fromARGB(255, 61, 31, 233),
-          title: const Text('Group 14'),
+          title: const Text('LetsVibe'),
           actions: [
             IconButton(
               onPressed: () {
