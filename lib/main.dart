@@ -3,7 +3,7 @@ import 'package:device_preview/device_preview.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-void main() {
+void main() {k,-0=k[pm,]\]-+911
   runApp(
     DevicePreview(
     enabled: !kReleaseMode,
@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       locale: DevicePreview.locale(context),
       //builder: DevicePreview.appBuilder,
       useInheritedMediaQuery: true,
-      title: 'Flutter Demo',
+      title: 'LetsVibe',
       theme: ThemeData(),
       home: const OnBoard(),
     );
