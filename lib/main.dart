@@ -3,7 +3,7 @@ import 'package:device_preview/device_preview.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-void main() {k,-0=k[pm,]\]-+911
+void main() {
   runApp(
     DevicePreview(
     enabled: !kReleaseMode,
